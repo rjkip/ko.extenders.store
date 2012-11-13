@@ -1,6 +1,6 @@
 {
     "name": "ko.extenders.store",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A simple Knockout extender for store.js",
     "maintainers": [
         {
