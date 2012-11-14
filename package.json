@@ -2,7 +2,7 @@
     "name": "ko.extenders.store",
     "version": "1.0.4",
     "description": "A simple Knockout extender for store.js",
-    "homepage": "hhttps://github.com/rjkip/ko.extenders.store",
+    "homepage": "https://github.com/rjkip/ko.extenders.store",
     "maintainers": [
         {
             "name": "Reinier Kip",
